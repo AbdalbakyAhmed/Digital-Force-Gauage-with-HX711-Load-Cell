@@ -26,3 +26,5 @@
   - Display: LCD Display for No. of samples, and hardness, or peak value results.
 
 System interface connections:
+
+![System connections](https://github.com/AbdalbakyAhmed/Digital-Force-Gauage-with-HX711-Load-Cell/blob/main/projectconnection_bb_write.jpg)
